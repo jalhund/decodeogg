@@ -1,0 +1,14 @@
+name: "DecodeOgg"
+platforms:
+    x86-win32:
+       context:
+            libs: []
+    x86_64-win32:
+        context:
+            libs: []
+    armv7-android:
+        context:
+            libs: []
+    arm64-android:
+        context:
+            libs: []
