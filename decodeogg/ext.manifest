@@ -1,4 +1,4 @@
-name: "DecodeOgg"
+name: "decodeogg"
 platforms:
     x86-win32:
        context:
