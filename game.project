@@ -59,6 +59,9 @@ debuggable = 1
 [script]
 shared_state = 1
 
+[library]
+include_dirs = decodeogg
+
 [physics]
 gravity_y = -1000.0
 scale = 0.01
