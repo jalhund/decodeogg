@@ -2,7 +2,6 @@
 
 Native extension for decoding ogg files in wav.
 
-The example also uses [OpenAl](https://github.com/Lerg/extension-openal)
 ## Using
 
 ```lua
